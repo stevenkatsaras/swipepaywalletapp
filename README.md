@@ -1,2 +1,2 @@
-# swipepay-wallet-app
+# swipepaywalletapp
 SwipePay Wallet App
